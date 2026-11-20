@@ -1,6 +1,8 @@
 # Olá, eu sou o Karidson 👋
 
-Avaliador imobiliário e criador de sistemas e sites.
+Desenvolvedor entusiasta, estudante de Engenharia Civil e apaixonado por tecnologia, automação e inovação.
+
+🌐 [karidsonbessa.com](https://www.karidsonbessa.com) · 💼 [LinkedIn](https://www.linkedin.com/in/karidsonbessa/)
 
 <p align="center">
 <picture>
