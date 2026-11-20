@@ -18,3 +18,5 @@ cards:
     title: Ritmo semanal
   repos:
     title: Meus repositórios
+    count: 6
+    hide: []
