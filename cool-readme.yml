@@ -20,3 +20,9 @@ cards:
     title: Meus repositórios
     count: 6
     hide: []
+  languages:
+    title: Linguagens mais usadas
+    count: 6
+    hide: []
+    repos: {}
+    other: true
