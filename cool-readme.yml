@@ -1,0 +1,5 @@
+show: [about, summary, languages, weekly, repos]
+
+look:
+  style: classic
+  color: green
