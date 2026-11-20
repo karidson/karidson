@@ -14,15 +14,3 @@ cards:
     facts:
       Local: "Natal, RN"
       Site: "karidsonbessa.com"
-  languages:
-    title: Linguagens mais usadas
-  weekly:
-    title: Ritmo semanal
-  repos:
-    title: Meus repositórios
-  contributions:
-    title: Notable contributions
-    count: 6
-    open: true
-    pin: []
-    hide: []
