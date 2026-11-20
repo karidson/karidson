@@ -14,3 +14,7 @@ cards:
     facts:
       Local: "Natal, RN"
       Site: "karidsonbessa.com"
+  weekly:
+    title: Ritmo semanal
+  repos:
+    title: Meus repositórios
